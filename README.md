@@ -1,4 +1,7 @@
 🚨 Network Traffic Anomaly Detector (AI-Based IDS)
+
+
+
 📌 Overview
 This project is an AI-powered Network Traffic Anomaly Detector that captures live network packets, extracts meaningful traffic features, and uses an unsupervised machine learning model (Isolation Forest) to identify abnormal or suspicious traffic patterns in real time. It simulates the core functionality of an Intrusion Detection System (IDS) used in cybersecurity to monitor networks and detect potential threats such as traffic spikes, flooding behavior, and unusual packet activity.
 
