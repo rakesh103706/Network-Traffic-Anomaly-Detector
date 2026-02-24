@@ -71,15 +71,15 @@ This project demonstrates:
 ## 📂 Project Structure
  
 network-anomaly-detector/
-│── capture_packets.py      # Capture live network traffic
-│── preprocess.py           # Feature engineering & preprocessing
-│── train_model.py          # Train Isolation Forest model
-│── realtime_detector.py    # Real-time anomaly detection
-│── app.py                  # Streamlit dashboard visualization
-│── network_traffic.csv     # Captured raw traffic data
-│── processed_traffic.csv   # Preprocessed feature dataset
-│── anomaly_model.pkl       # Trained ML model
-│── anomaly_results.csv     # Prediction results
+capture_packets.py      Capture live network traffic
+preprocess.py           Feature engineering & preprocessing
+train_model.py          Train Isolation Forest model
+realtime_detector.py    Real-time anomaly detection
+app.py                  Streamlit dashboard visualization
+network_traffic.csv     Captured raw traffic data
+processed_traffic.csv   Preprocessed feature dataset
+anomaly_model.pkl       Trained ML model
+anomaly_results.csv     Prediction results
 
 
 
